@@ -1,0 +1,33 @@
+# Environment variables — contains secrets, NEVER commit
+.env
+README.md
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Distribution / build
+dist/
+build/
+*.egg-info/

@@ -59,7 +59,7 @@ Salesforce (Agentforce / Apex / Flow)
 ## Project Structure
 
 ```
-rag_enterprise/
+rag-knowledge-retrieval-api/
 ├── main.py                              ← FastAPI app entrypoint
 ├── requirements.txt
 ├── .env.example                         ← copy to .env
